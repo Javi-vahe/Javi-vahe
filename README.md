@@ -20,11 +20,11 @@
 
 ### ✦ 👨‍💻 ABOUT THE ARCHITECT
 
-[cite_start]I am an **Automation** undergraduate at **Northeastern University (NEU)** [cite: 7, 8] [cite_start]and an incoming Direct Ph.D. candidate[cite: 2]. [cite_start]My core expertise lies in transforming cutting-edge algorithms into robust, real-world engineering systems[cite: 65].
+I am an **Automation** undergraduate at **Northeastern University (NEU)** and an incoming Direct Ph.D. candidate. My core expertise lies in transforming cutting-edge algorithms into robust, real-world engineering systems.
 
-* [cite_start]🔬 **Research:** First author of 2 SCI papers (under review) in AI & Robotics [cite: 51, 53][cite_start], holding 38 software copyrights[cite: 61].
-* [cite_start]💼 **Industry:** L3 Autonomous Driving Architecture Intern at Dongfeng Motor[cite: 26, 27].
-* [cite_start]🏅 **Academics:** National Scholarship (Top 0.45%) [cite: 56][cite_start], Cambridge University AI Exchange (Grade A)[cite: 66].
+* 🔬 **Research:** First author of 2 SCI papers (under review) in AI & Robotics, holding 38 software copyrights.
+* 💼 **Industry:** L3 Autonomous Driving Architecture Intern at Dongfeng Motor.
+* 🏅 **Academics:** National Scholarship (Top 0.45%), Cambridge University AI Exchange (Grade A).
 
 </div>
 
@@ -37,9 +37,9 @@
 This is **not** a standard code dump. It is a curated, high-fidelity archive dedicated to open-sourcing my **National Champion / National First Prize** projects. 
 
 Here, you will find elite-level implementations focusing on:
-- [cite_start]🤖 **Robotics:** ROS1/ROS2 Architecture, Motion Control, VLA models[cite: 13].
-- [cite_start]🛰️ **Perception & SLAM:** Cartographer, LOAM, Multi-Sensor Fusion (LiDAR + IMU + Vision)[cite: 13].
-- [cite_start]⚡ **AI Deployment:** TensorRT, ONNX, INT8 Quantization, Edge Acceleration (Orin-X, RK3588)[cite: 13, 31, 41].
+- 🤖 **Robotics:** ROS1/ROS2 Architecture, Motion Control, VLA models.
+- 🛰️ **Perception & SLAM:** Cartographer, LOAM, Multi-Sensor Fusion (LiDAR + IMU + Vision).
+- ⚡ **AI Deployment:** TensorRT, ONNX, INT8 Quantization, Edge Acceleration (Orin-X, RK3588).
 
 ---
 
@@ -47,12 +47,12 @@ Here, you will find elite-level implementations focusing on:
 
 | Award Level | Competition / Track | My Role |
 | :--- | :--- | :---: |
-| 🥇 **National Champion** | [cite_start]China Robotics & AI Competition [cite: 59] | [cite_start]**Captain** [cite: 59] |
-| 🥇 **National Gold** | [cite_start]"Internet+" Innovation & Entrepreneurship [cite: 59] | [cite_start]**Software Lead** [cite: 59] |
-| 🥇 **National 1st Prize** | [cite_start]"Challenge Cup" Academic & Technology Competition [cite: 59] | [cite_start]**Algorithm Lead** [cite: 59] |
-| 🥇 **National Runner-up** | [cite_start]NXP Smart Car Competition (Outdoor Unmanned) [cite: 59] | [cite_start]**Captain** [cite: 59] |
-| 🥇 **National 3rd Place** | [cite_start]NXP Smart Car Competition (Smart Delivery) [cite: 59] | [cite_start]**Captain** [cite: 59] |
-| 🥇 **National 1st Prize** | [cite_start]Global Campus AI Algorithm Elite Competition (New Engineering) [cite: 59] | [cite_start]**Captain** [cite: 59] |
+| 🥇 **National Champion** | China Robotics & AI Competition | **Captain** |
+| 🥇 **National Gold** | "Internet+" Innovation & Entrepreneurship | **Software Lead** |
+| 🥇 **National 1st Prize** | "Challenge Cup" Academic & Technology Competition | **Algorithm Lead** |
+| 🥇 **National Runner-up** | NXP Smart Car Competition (Outdoor Unmanned) | **Captain** |
+| 🥇 **National 3rd Place** | NXP Smart Car Competition (Smart Delivery) | **Captain** |
+| 🥇 **National 1st Prize** | Global Campus AI Algorithm Elite Competition (New Engineering) | **Captain** |
 
 ---
 
