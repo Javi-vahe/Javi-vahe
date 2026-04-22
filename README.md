@@ -116,14 +116,16 @@ then this archive is built for you.
 
 ## `>>> terminal_status`
 
+</div>
+
 ```text
 [ OK ] National Champion Codebase Archive
 [ OK ] Robotics / Autonomous Driving / AI Deployment Modules
 [ OK ] Open Source Mission Initialized
 [ OK ] Awaiting next elite repository push ...
 ```
-
+<div align="center">
 ### ⭐ **Building an open-source archive of national-level winning projects**
-
 </div>
+
 
