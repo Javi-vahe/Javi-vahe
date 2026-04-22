@@ -1,7 +1,7 @@
 <div align="center">
 
-# Zhiyou Guan | 关智友
-### Robotics · Autonomous Driving · Embodied AI · Engineering for Real Deployment
+# Zhiyou Guan | Nx_Neuralon
+### 🤖 Robotics · Autonomous Driving · Embodied AI · Engineering for Real Deployment
 
 <p>
   <em>Open-sourcing national-level award-winning projects and production-grade algorithm implementations.</em>
