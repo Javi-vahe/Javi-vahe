@@ -1,51 +1,183 @@
 <div align="center">
-  <h1>Hi there, I'm Zhiyou Guan (关智友) 👋</h1>
-  <h3>🤖 Robotics | Autonomous Driving | AI Algorithms</h3>
-  <p><em>🔥 Open-sourcing National Champion & First Prize (国一) Codes 🔥</em></p>
+
+# Zhiyou Guan | 关智友
+
+### 🏆 National Champion Codebase Archive  
+### 🤖 Robotics · 🚗 Autonomous Driving · 🧠 AI Deployment · 📦 Open Source
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-National%20Award--Winning%20Projects-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Elite%20Competition%20Code-0A66C2?style=for-the-badge&logo=openaccess&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Robotics-ROS%20%7C%20SLAM%20%7C%20Navigation-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Autonomous%20Driving-Perception%20%7C%20Deployment-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-PyTorch%20%7C%20TensorRT%20%7C%20ONNX-dc2626?style=flat-square" />
+</p>
+
+<p>
+  <em>Turning national-level winning solutions into reusable engineering assets.</em>
+</p>
+
 </div>
 
 ---
 
-### 🌟 About Me
+## 🚀 About This GitHub
 
-[cite_start]I am currently an undergraduate student majoring in **Automation** at **Northeastern University (NEU)**, China [cite: 7, 8][cite_start], and an incoming direct Ph.D. candidate[cite: 2]. [cite_start]My research and engineering efforts focus on Robotics, SLAM, and Multi-modal AI full-stack deployment[cite: 13]. 
+This is not a general-purpose code collection.
 
-I am deeply passionate about the open-source community. This GitHub account is dedicated to **sharing my high-quality, National First Prize-winning codes** to help fellow developers and researchers.
+It is a curated open-source archive dedicated to my **National First Prize / National Champion** projects, focusing on:
 
-- [cite_start]🎓 **Education:** B.Eng. in Automation, NEU (GPA: 3.7/5.0, Top Ranking)[cite: 7, 8, 10].
-- [cite_start]🏆 **Top Honors:** National Scholarship (Top 0.45%).
-- [cite_start]🔬 **Research:** First author of 2 SCI papers (under review) in AI and robotics [cite: 51, 53][cite_start], and hold 38 software copyrights[cite: 61].
-- [cite_start]💼 **Experience:** R&D Intern at Dongfeng Motor (L3 Autonomous Driving) & NEU Institute of Photoelectric Sensing[cite: 17, 18, 26, 27].
+- 🤖 **Robotics systems**
+- 🚗 **Autonomous driving**
+- 🛰️ **SLAM & perception**
+- 🧠 **Multi-modal AI**
+- ⚡ **Edge-side deployment & acceleration**
 
----
+Here, I aim to transform top-tier competition solutions into code that is:
 
-### 🏆 Open-Sourced National Elite Projects
-*(My core implementations from top-tier national competitions)*
-
-- [cite_start]🥇 **"Challenge Cup" (挑战杯):** National First Prize (Algorithm Lead) 
-- [cite_start]🥇 **"Internet+" Innovation & Entrepreneurship:** National Gold Award (Software Lead) 
-- [cite_start]🥇 **NXP Smart Car Competition:** National Champion & Runner-up in multiple tracks (Captain) 
-- [cite_start]🥇 **China Robotics and AI Competition:** National Champion (Captain) 
+- 📘 **learnable**
+- 🔁 **reproducible**
+- 🛠️ **deployable**
+- 🏅 **competition-proven**
 
 ---
 
-### 🛠️ Tech Stack
+## 🏆 National-Level Highlights
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<table>
+<tr>
+<td align="center">🥇</td>
+<td><strong>Challenge Cup</strong></td>
+<td>National First Prize</td>
+<td>Algorithm Lead</td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><strong>Internet+ Innovation & Entrepreneurship</strong></td>
+<td>National Gold Award</td>
+<td>Software Lead</td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><strong>NXP Smart Car Competition</strong></td>
+<td>National Champion / Runner-up</td>
+<td>Captain</td>
+</tr>
+<tr>
+<td align="center">🥇</td>
+<td><strong>China Robotics & AI Competition</strong></td>
+<td>National Champion</td>
+<td>Captain</td>
+</tr>
+</table>
+
+---
+
+## 🧩 What You’ll Find Here
+
+### 🏁 Elite Competition Code
+Core implementations extracted from **national champion / national first prize projects**.
+
+### ⚙️ Engineering-Grade AI Pipelines
+Not only training scripts, but complete workflows including:
+
+- dataset organization
+- model training & evaluation
+- inference acceleration
+- embedded deployment
+- optimization & reproducibility
+
+### 🤖 Real Robotics & Autonomous Systems
+Projects may cover:
+
+- ROS1 / ROS2 architecture
+- SLAM / localization / mapping
+- sensor fusion
+- path planning & control
+- onboard perception systems
+- edge-device deployment
+
+---
+
+## 🛠 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,opencv,ubuntu,linux,git,github" />
 </p>
 
-- [cite_start]**AI Deployment:** TensorRT, ONNX, Model Quantization (INT8), Channel Pruning[cite: 13].
-- [cite_start]**Robotics:** ROS1/ROS2, Cartographer, LOAM, Navigation2, Sensor Fusion[cite: 13].
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS1%20%2F%20ROS2-System%20Development-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-High%20Performance%20Inference-76B900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ONNX-Model%20Deployment-005CED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/INT8-Quantization%20%26%20Acceleration-8B5CF6?style=for-the-badge" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Repository Philosophy
+
+> Good repositories should not only run.  
+> They should also be understandable, reproducible, and valuable to others.
+
+This account is built with the following principles:
+
+- ✅ **Readable structure**
+- ✅ **Clear documentation**
+- ✅ **Deployment awareness**
+- ✅ **Competition-tested reliability**
+- ✅ **Open-source learning value**
+
+---
+
+## 🔬 Current Direction
+
+- 🤖 Robotics perception & SLAM  
+- 🚗 L3 autonomous driving systems  
+- 🧠 Multi-modal AI full-stack deployment  
+- ⚡ Efficient inference on edge devices  
+- 🧱 From research prototype to real engineering system  
+
+---
+
+## 🌟 Featured Repositories
+
+> Repositories will be gradually organized into a complete **National Elite Project Archive**.
+
+- **Project A** — National First Prize project with perception, deployment, and system integration  
+- **Project B** — Champion-level robotics pipeline based on ROS and real-time control  
+- **Project C** — Edge AI deployment framework with TensorRT acceleration  
+- **Project D** — SLAM / sensor fusion / onboard intelligent system implementation  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Javi-vahe&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javi-vahe&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" />
+
+</div>
+
+---
+
+## 🤝 For Visitors
+
+If you are a:
+
+- 🎓 student looking for strong competition references  
+- 🔬 researcher interested in practical robotics / AI systems  
+- 💼 engineer working on deployment and real-world pipelines  
+
+then these repositories are built for you.
+
+---
+
+<div align="center">
+
+### ⭐ Building an open-source archive of national-level winning projects
+
 </div>
