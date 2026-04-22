@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zhiyou Guan | Nx_Neuralon
+# Zhiyou Guan
 ### 🤖 Robotics · Autonomous Driving · Embodied AI · Engineering for Real Deployment
 
 <p>
