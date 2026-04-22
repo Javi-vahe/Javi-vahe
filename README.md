@@ -1,51 +1,140 @@
 <div align="center">
-  <h1>Hi there, I'm Zhiyou Guan 👋</h1>
-  <h3>🤖 Robotics | Autonomous Driving | AI Algorithms</h3>
-  <p><em>🔥 Open-sourcing National Champion & First Prize Codes 🔥</em></p>
+
+# Zhiyou Guan | 关智友
+### Robotics · Autonomous Driving · Embodied AI · Engineering for Real Deployment
+
+<p>
+  <em>Open-sourcing national-level award-winning projects and production-grade algorithm implementations.</em>
+</p>
+
+<p>
+  <strong>🏆 National Champion / National First Prize Codebase Archive</strong>
+</p>
+
 </div>
 
 ---
 
-### 🌟 About Me
+## About This GitHub
 
-I am currently an undergraduate student majoring in **Automation** at **Northeastern University (NEU)**, China, and an incoming direct Ph.D. candidate. My research and engineering efforts focus on Robotics, SLAM, and Multi-modal AI full-stack deployment. 
+This account is not a general-purpose code collection.
 
-I am deeply passionate about the open-source community. This GitHub account is dedicated to **sharing my high-quality, National First Prize-winning codes** to help fellow developers and researchers.
+It is a **curated repository of my national champion / national first prize projects**, created to share high-quality implementations from top-tier competitions and real engineering practice in:
 
-- 🎓 **Education:** B.Eng. in Automation, NEU (GPA: 3.7/5.0, Top Ranking).
-- 🏆 **Top Honors:** National Scholarship (Top 0.45%).
-- 🔬 **Research:** First author of 2 SCI papers (under review) in AI and robotics, and hold 38 software copyrights.
-- 💼 **Experience:** R&D Intern at Dongfeng Motor (L3 Autonomous Driving) & NEU Institute of Photoelectric Sensing.
+- **Robotics**
+- **Autonomous Driving**
+- **SLAM & Perception**
+- **Multimodal AI Deployment**
+- **Embedded / Edge-side Inference**
 
----
+My goal is simple:
 
-### 🏆 Open-Sourced National Elite Projects
-*(My core implementations from top-tier national competitions)*
+> **Turn top-level competition solutions into open, reusable, and educational engineering assets.**
 
-- 🥇 **"Challenge Cup":** National First Prize (Algorithm Lead)
-- 🥇 **"Internet+" Innovation & Entrepreneurship:** National Gold Award (Software Lead)
-- 🥇 **NXP Smart Car Competition:** National Champion & Runner-up in multiple tracks (Captain)
-- 🥇 **China Robotics and AI Competition:** National Champion (Captain)
+If you are interested in reproducible pipelines, deployable algorithms, and competition-proven system design, you may find these repositories valuable.
 
 ---
 
-### 🛠️ Tech Stack
+## Selected Achievements
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-</p>
+- 🥇 **Challenge Cup** — National First Prize  
+- 🥇 **Internet+ Innovation & Entrepreneurship Competition** — National Gold Award  
+- 🥇 **NXP Smart Car Competition** — National Champion / multiple top finishes  
+- 🥇 **China Robotics & AI Competition** — National Champion  
 
-- **AI Deployment:** TensorRT, ONNX, Model Quantization (INT8), Channel Pruning.
-- **Robotics:** ROS1/ROS2, Cartographer, LOAM, Navigation2, Sensor Fusion.
+These projects were not built as demos only.  
+Most of them were developed under **real competition constraints**: limited resources, strict timing, hardware coupling, deployment requirements, and end-to-end system validation.
 
 ---
 
-### 📊 GitHub Stats
+## What You Will Find Here
+
+### 1. National Award-Winning Competition Code
+Core implementations from projects that reached **national first prize / championship level**, including perception, control, deployment, optimization, and full-stack integration.
+
+### 2. Engineering-Oriented AI Algorithms
+Not just “model training scripts”, but complete engineering workflows involving:
+
+- dataset organization
+- training / evaluation pipelines
+- inference acceleration
+- deployment adaptation
+- embedded optimization
+- reproducibility notes
+
+### 3. Practical Robotics & Autonomous Systems
+Repositories may include work related to:
+
+- ROS / ROS2 system development
+- SLAM and localization
+- sensor fusion
+- path planning / control
+- onboard deployment
+- real-time perception pipelines
+
+---
+
+## Technical Focus
+
+**Languages**  
+`Python` `C++` `C`
+
+**AI / Deployment**  
+`PyTorch` `ONNX` `TensorRT` `INT8 Quantization` `Channel Pruning`
+
+**Robotics**  
+`ROS1` `ROS2` `Cartographer` `LOAM` `Navigation2` `Sensor Fusion`
+
+**Engineering Environment**  
+`Ubuntu` `OpenCV` `Embedded Linux` `Edge AI`
+
+---
+
+## Design Philosophy
+
+I care about code that is:
+
+- **Readable** — not only for usage, but for learning
+- **Reproducible** — clear enough to rerun and verify
+- **Deployable** — not limited to paper-level or notebook-level experiments
+- **Competition-tested** — validated under pressure, constraints, and real system integration
+- **Open and valuable** — useful to students, researchers, and engineers
+
+---
+
+## Current Direction
+
+My recent work focuses on:
+
+- **Robotics perception and SLAM**
+- **L3 autonomous driving system engineering**
+- **Multimodal AI full-stack deployment**
+- **Efficient inference on edge devices**
+- **From research prototype to deployable system**
+
+---
+
+## For Visitors
+
+If you are a:
+
+- **student** looking for strong competition references,
+- **researcher** interested in practical AI/robotics implementation,
+- **engineer** working on deployment and real-world systems,
+
+then these repositories are built for you.
+
+---
+
+## Contact
+
+If a project helps you, feel free to leave a star ⭐  
+Academic / engineering discussions are also welcome.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Javi-vahe&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  <sub>
+    Building open-source repositories from national-level winning projects, one by one.
+  </sub>
 </div>
