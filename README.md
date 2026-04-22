@@ -96,3 +96,34 @@ Here, you will find elite-level implementations focusing on:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Javi-vahe&label=ARCHIVE+VISITORS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </div>
+
+---
+
+### ✦ 🤝 For Visitors
+
+If you are a:
+
+- 🎓 student looking for strong national-competition references
+- 🔬 researcher interested in practical robotics / AI systems
+- 💼 engineer working on deployable perception and autonomous pipelines
+- ⚙️ developer seeking real end-to-end implementations
+
+then this archive is built for you.
+
+---
+
+<div align="center">
+
+## `>>> terminal_status`
+
+```text
+[ OK ] National Champion Codebase Archive
+[ OK ] Robotics / Autonomous Driving / AI Deployment Modules
+[ OK ] Open Source Mission Initialized
+[ OK ] Awaiting next elite repository push ...
+```
+
+### ⭐ **Building an open-source archive of national-level winning projects**
+
+</div>
+
