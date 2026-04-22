@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zhiyou Guan | 关智友
+# Zhiyou Guan
 
 ### 🏆 National Champion Codebase Archive  
 ### 🤖 Robotics · 🚗 Autonomous Driving · 🧠 AI Deployment · 📦 Open Source
