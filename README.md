@@ -97,21 +97,6 @@ Here, you will find elite-level implementations focusing on:
   <img src="https://komarev.com/ghpvc/?username=Javi-vahe&label=ARCHIVE+VISITORS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Javi-vahe&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=C9D1D9&icon_color=00F7FF&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javi-vahe&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=C9D1D9" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Javi-vahe&theme=matrix&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10" alt="Trophies" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Javi-vahe&theme=dark&hide_border=true&background=00000000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Javi-vahe&label=ARCHIVE+VISITORS&color=0b1021&style=for-the-badge" alt="Profile Views" />
-
 ---
 
 ### ✦ 🤝 For Visitors
