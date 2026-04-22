@@ -125,7 +125,9 @@ then this archive is built for you.
 [ OK ] Awaiting next elite repository push ...
 ```
 <div align="center">
+  
 ### ⭐ **Building an open-source archive of national-level winning projects**
+
 </div>
 
 
