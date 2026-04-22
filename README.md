@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm Zhiyou Guan 👋</h1>
+  <h1>Hi there, I'm Zhiyou Guan (关智友) 👋</h1>
   <h3>🤖 Robotics | Autonomous Driving | AI Algorithms</h3>
-  <p><em>🔥 Open-sourcing National Champion & First Prize Codes 🔥</em></p>
+  <p><em>🔥 Open-sourcing National Champion & First Prize (国一) Codes 🔥</em></p>
 </div>
 
 ---
@@ -12,6 +12,7 @@
 
 I am deeply passionate about the open-source community. This GitHub account is dedicated to **sharing my high-quality, National First Prize-winning codes** to help fellow developers and researchers.
 
+- [cite_start]🎓 **Education:** B.Eng. in Automation, NEU (GPA: 3.7/5.0, Top Ranking)[cite: 7, 8, 10].
 - [cite_start]🏆 **Top Honors:** National Scholarship (Top 0.45%).
 - [cite_start]🔬 **Research:** First author of 2 SCI papers (under review) in AI and robotics [cite: 51, 53][cite_start], and hold 38 software copyrights[cite: 61].
 - [cite_start]💼 **Experience:** R&D Intern at Dongfeng Motor (L3 Autonomous Driving) & NEU Institute of Photoelectric Sensing[cite: 17, 18, 26, 27].
@@ -21,7 +22,7 @@ I am deeply passionate about the open-source community. This GitHub account is d
 ### 🏆 Open-Sourced National Elite Projects
 *(My core implementations from top-tier national competitions)*
 
-- [cite_start]🥇 **"Challenge Cup":** National First Prize (Algorithm Lead) 
+- [cite_start]🥇 **"Challenge Cup" (挑战杯):** National First Prize (Algorithm Lead) 
 - [cite_start]🥇 **"Internet+" Innovation & Entrepreneurship:** National Gold Award (Software Lead) 
 - [cite_start]🥇 **NXP Smart Car Competition:** National Champion & Runner-up in multiple tracks (Captain) 
 - [cite_start]🥇 **China Robotics and AI Competition:** National Champion (Captain) 
