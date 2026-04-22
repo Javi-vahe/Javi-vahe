@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm Zhiyou Guan (关智友) 👋</h1>
+  <h1>Hi there, I'm Zhiyou Guan 👋</h1>
   <h3>🤖 Robotics | Autonomous Driving | AI Algorithms</h3>
-  <p><em>🔥 Open-sourcing National Champion & First Prize (国一) Codes 🔥</em></p>
+  <p><em>🔥 Open-sourcing National Champion & First Prize Codes 🔥</em></p>
 </div>
 
 ---
@@ -22,7 +22,7 @@ I am deeply passionate about the open-source community. This GitHub account is d
 ### 🏆 Open-Sourced National Elite Projects
 *(My core implementations from top-tier national competitions)*
 
-- 🥇 **"Challenge Cup" (挑战杯):** National First Prize (Algorithm Lead)
+- 🥇 **"Challenge Cup":** National First Prize (Algorithm Lead)
 - 🥇 **"Internet+" Innovation & Entrepreneurship:** National Gold Award (Software Lead)
 - 🥇 **NXP Smart Car Competition:** National Champion & Runner-up in multiple tracks (Captain)
 - 🥇 **China Robotics and AI Competition:** National Champion (Captain)
