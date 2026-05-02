@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Focus-National%20Champion%20Projects-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/Javi-vahe">
-    <img src="https://img.shields.io/badge/Status-Direct%20Ph.D.%20Candidate-0A66C2?style=for-the-badge&logo=academic&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Direct%20Ph.D.%20Candidate-0A66C2?style=for-the-badge&logo=academia&logoColor=white" />
   </a>
   <a href="mailto:202310169@stu.neuq.edu.cn">
     <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -22,9 +22,9 @@
 
 I am an **Automation** undergraduate at **Northeastern University (NEU)** and an incoming Direct Ph.D. candidate. My core expertise lies in transforming cutting-edge algorithms into robust, real-world engineering systems.
 
-* 🔬 **Research:** First author of 2 SCI papers (under review) in AI & Robotics, holding 38 software copyrights.
+* 🔬 **Research:** First author of 2 SCI papers under review in AI & Robotics, holding 38 software copyrights.
 * 💼 **Industry:** L3 Autonomous Driving Architecture Intern at Dongfeng Motor.
-* 🏅 **Academics:** National Scholarship (Top 0.45%), Cambridge University AI Exchange (Grade A).
+* 🏅 **Academics:** National Scholarship, Top 0.45%, Cambridge University AI Exchange, Grade A.
 
 </div>
 
@@ -34,25 +34,26 @@ I am an **Automation** undergraduate at **Northeastern University (NEU)** and an
 
 > *"Good repositories should not only run. They must be elegant, reproducible, and deployable."*
 
-This is **not** a standard code dump. It is a curated, high-fidelity archive dedicated to open-sourcing my **National Champion / National First Prize** projects. 
+This is **not** a standard code dump. It is a curated, high-fidelity archive dedicated to open-sourcing my **National Champion / National First Prize** projects.
 
 Here, you will find elite-level implementations focusing on:
-- 🤖 **Robotics:** ROS1/ROS2 Architecture, Motion Control, VLA models.
-- 🛰️ **Perception & SLAM:** Cartographer, LOAM, Multi-Sensor Fusion (LiDAR + IMU + Vision).
-- ⚡ **AI Deployment:** TensorRT, ONNX, INT8 Quantization, Edge Acceleration (Orin-X, RK3588).
+
+- 🤖 **Robotics:** ROS1 / ROS2 Architecture, Motion Control, VLA models.
+- 🛰️ **Perception & SLAM:** Cartographer, LOAM, Multi-Sensor Fusion, LiDAR + IMU + Vision.
+- ⚡ **AI Deployment:** TensorRT, ONNX, INT8 Quantization, Edge Acceleration, Orin-X, RK3588.
 
 ---
 
-### ✦ 🏆 THE TROPHY CABINET (National Elite)
+### ✦ 🏆 THE TROPHY CABINET
 
 | Award Level | Competition / Track | My Role |
 | :--- | :--- | :---: |
 | 🥇 **National Champion** | China Robotics & AI Competition | **Captain** |
 | 🥇 **National Gold** | "Internet+" Innovation & Entrepreneurship | **Software Lead** |
 | 🥇 **National 1st Prize** | "Challenge Cup" Academic & Technology Competition | **Algorithm Lead** |
-| 🥇 **National Runner-up** | NXP Smart Car Competition (Outdoor Unmanned) | **Captain** |
-| 🥇 **National 3rd Place** | NXP Smart Car Competition (Smart Delivery) | **Captain** |
-| 🥇 **National 1st Prize** | Global Campus AI Algorithm Elite Competition (New Engineering) | **Captain** |
+| 🥇 **National Runner-up** | NXP Smart Car Competition, Outdoor Unmanned | **Captain** |
+| 🥇 **National 3rd Place** | NXP Smart Car Competition, Smart Delivery | **Captain** |
+| 🥇 **National 1st Prize** | Global Campus AI Algorithm Elite Competition, New Engineering | **Captain** |
 
 ---
 
@@ -60,20 +61,27 @@ Here, you will find elite-level implementations focusing on:
 
 <div align="center">
 
-**[ Languages & Core ]**<br>
+**[ Languages & Core ]**  
+<br>
 <img src="https://skillicons.dev/icons?i=cpp,python,c,linux,ubuntu,git,github,bash" />
 
-**[ AI Algorithms & Acceleration ]**<br>
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,matlab" />
+<br><br>
+
+**[ AI Algorithms & Acceleration ]**  
 <br>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,matlab" />
+<br><br>
 <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
 <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
 <img src="https://img.shields.io/badge/INT8_Quantization-8B5CF6?style=for-the-badge" />
 
-**[ Robotics & Autonomous Driving ]**<br>
-<img src="https://skillicons.dev/icons?i=ros" />
+<br><br>
+
+**[ Robotics & Autonomous Driving ]**  
 <br>
+<img src="https://skillicons.dev/icons?i=ros" />
+<br><br>
 <img src="https://img.shields.io/badge/SLAM-Cartographer%20%7C%20LOAM-1f6feb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Sensor%20Fusion-LiDAR%20%7C%20Camera%20%7C%20Radar-238636?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Navigation2-Path%20Planning-dc2626?style=for-the-badge" />
@@ -82,24 +90,55 @@ Here, you will find elite-level implementations focusing on:
 
 ---
 
-### ✦ 📊 GITHUB ANALYTICS
+### ✦ 📊 GITHUB SIGNALS
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Javi-vahe&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=7dcfff&bg_color=1a1b26" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javi-vahe&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Top Languages" />
+<a href="https://github.com/Javi-vahe?tab=followers">
+  <img src="https://img.shields.io/github/followers/Javi-vahe?style=for-the-badge&logo=github&label=Followers&color=58A6FF&labelColor=111111" alt="GitHub Followers" />
+</a>
+
+<a href="https://github.com/Javi-vahe?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Javi-vahe?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=F7B955&labelColor=111111" alt="GitHub Stars" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Javi-vahe&label=ARCHIVE+VISITORS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Javi-vahe&label=ARCHIVE+VISITORS&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+
+| Engineering Dimension | Signal |
+| :--- | :--- |
+| **Robotics Systems** | ROS1 / ROS2, Motion Control, Navigation, VLA |
+| **Autonomous Driving** | Perception, SLAM, Planning, Multi-Sensor Fusion |
+| **AI Deployment** | TensorRT, ONNX, INT8 Quantization, Edge Acceleration |
+| **Competition Grade** | National Champion / National First Prize Projects |
+| **Archive Standard** | Reproducible, Deployable, Engineering-Oriented |
+
 </div>
 
 ---
 
-### ✦ 🤝 For Visitors
+### ✦ 🧭 REPOSITORY MAP
+
+<div align="center">
+
+| Category | What You Will Find |
+| :--- | :--- |
+| 🤖 **Robotics** | Full-stack robotics projects, ROS architecture, motion control, deployment notes |
+| 🛰️ **Perception & SLAM** | LiDAR / IMU / Vision fusion, mapping, localization, 3D perception |
+| ⚡ **AI Acceleration** | Model compression, TensorRT deployment, ONNX export, edge inference |
+| 🚗 **Autonomous Driving** | Planning, control, perception pipelines, L3 architecture practice |
+| 🏆 **Competition Archives** | National-level winning project implementations and engineering records |
+
+</div>
+
+---
+
+### ✦ 🤝 FOR VISITORS
 
 If you are a:
 
@@ -123,11 +162,3 @@ then this archive is built for you.
 [ OK ] Robotics / Autonomous Driving / AI Deployment Modules
 [ OK ] Open Source Mission Initialized
 [ OK ] Awaiting next elite repository push ...
-```
-<div align="center">
-  
-### ⭐ **Building an open-source archive of national-level winning projects**
-
-</div>
-
-
