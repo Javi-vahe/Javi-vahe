@@ -36,7 +36,7 @@
 
 ### ✦ 👨‍💻 ABOUT THE ARCHITECT
 
-I am an **Automation** undergraduate at **Northeastern University (NEU)** and an incoming **Direct Ph.D. candidate**. My core expertise lies in transforming cutting-edge algorithms into robust, real-world engineering systems for **robotics**, **autonomous driving**, **world models**, and **physical AI deployment**.
+I am an **Automation** undergraduate at **Northeastern University (NEU)** and an incoming **Direct Ph.D. candidate**. My core expertise lies in transforming cutting-edge algorithms into robust, real-world engineering systems for **Physical AI**, **Embodied Intelligence**, **World Models**, and **Multimodal Foundation Models**.
 
 | Signal | Current Profile |
 | :--- | :--- |
