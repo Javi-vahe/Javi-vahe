@@ -4,7 +4,7 @@
 
 <br />
 
-<img width="760" src="./assets/name-gradient.svg" alt="Zhiyou Guan" />
+<img width="760" src="./assets/name-gradient-1.svg" alt="Zhiyou Guan" />
 
 <br />
 
