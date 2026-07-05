@@ -36,7 +36,7 @@
 
 ### ✦ 👨‍💻 ABOUT THE ARCHITECT
 
-I am an **Automation** undergraduate at **Northeastern University (NEU)** and an incoming **Direct Ph.D. candidate**. My core expertise lies in transforming cutting-edge algorithms into robust, real-world engineering systems for **robotics**, **autonomous driving**, **world models**, and **physical AI deployment**.
+I am an **Automation** undergraduate at **Northeastern University (NEU)** and an incoming **Direct Ph.D. candidate**. My core expertise lies in transforming cutting-edge algorithms into robust, real-world engineering systems for **Physical AI**, **Embodied Intelligence**, **World Models**, and **Multimodal Foundation Models**.
 
 | Signal | Current Profile |
 | :--- | :--- |
@@ -59,7 +59,7 @@ This is **not** a standard code dump. It is a curated, high-fidelity archive ded
 
 Here, you will find elite-level implementations focusing on:
 
-- 🤖 **Robotics:** ROS1 / ROS2 Architecture, Motion Control, Navigation, VLA models.
+- 🤖 **Physical AI:** ROS1 / ROS2 Architecture, Motion Control, Navigation, VLA models.
 - 🛰️ **Perception & SLAM:** Cartographer, LOAM, Multi-Sensor Fusion, LiDAR + IMU + Vision.
 - 🧠 **World Models:** Embodied perception, predictive scene representation, robot-environment interaction modeling.
 - ⚡ **AI Deployment:** TensorRT, ONNX, INT8 Quantization, Edge Acceleration, Orin-X, RK3588.
