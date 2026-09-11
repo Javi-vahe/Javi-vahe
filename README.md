@@ -1,26 +1,20 @@
-# Hi, I'm Zhiyou Guan 👋
+# 关智友 · Zhiyou Guan
+
+[个人主页 / Website](https://zhiyouguan.com/) · [中文介绍](https://zhiyouguan.com/zh/) · [Email](mailto:contact@zhiyouguan.com)
 
 <!-- Keep only the width attribute here. GitHub will calculate the height from
      the source image, preserving its original aspect ratio. -->
-<img align="right" width="230" src="./assets/5.png" alt="Portrait of Zhiyou Guan" />
+<p align="center">
+  <img width="180" src="./assets/5.png" alt="关智友（Zhiyou Guan）" />
+</p>
 
 I like building machines that can **perceive, reason, and act**—and then making the whole stack survive outside the lab.
 
-I am an Automation undergraduate at **Northeastern University, China**. My work sits at the intersection of **robotics, embodied intelligence, world models, multimodal agents, and autonomous systems**, with a particular interest in turning research ideas into reliable systems on real hardware.
+我是关智友，东北大学自动化专业大四本科生，目前在北京航空航天大学开展联合培养研究，与林家荣老师合作研究无人机世界模型、空间智能与空中 Agent。
 
-<p>
-  <a href="https://github.com/Javi-vahe">
-    <img src="https://img.shields.io/badge/Focus-Robotics%20%26%20Embodied%20AI-111111?style=flat-square&logo=github&logoColor=white" alt="Research focus" />
-  </a>
-  <img src="https://img.shields.io/badge/2027-Direct--Entry%20Ph.D.%20Applications-72B84A?style=flat-square&logo=academia&logoColor=white" alt="2027 direct-entry Ph.D. applications" />
-  <a href="mailto:202310169@stu.neuq.edu.cn">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+I'm a final-year Automation undergraduate at **Northeastern University**, currently in joint research training at **Beihang University**. I work with **Prof. Jiarong Lin** on UAV world models, spatial intelligence, and aerial agents.
 
-I am currently preparing applications to **direct-entry Ph.D. programs for 2027 admission**, while continuing to open-source selected research and competition projects.
-
-<br clear="right" />
+In Fall 2027, I'll begin a **PhD in robotics at the University of Hong Kong**, joining **Prof. Fu Zhang's MaRS Laboratory** and continuing the HKU–Beihang collaboration. I'm also a **co-founder of Freljord Artificial Intelligence Laboratory**.
 
 ---
 
@@ -49,6 +43,11 @@ The common thread across these roles is systems thinking: understanding the lear
 
 ## 📦 Open Source
 
+- [Nav Combat Workspace](https://github.com/Javi-vahe/Nav-Combat-Workspace): a ROS workspace for navigation, vision, chassis and gimbal control, and behavior-tree decisions.
+- [Abot Cruise Workspace](https://github.com/Javi-vahe/Abot-Cruise-Workspace): a ROS 1 system integrating chassis drivers, LiDAR SLAM, localization, vision, and task scheduling.
+
+Project context and my work are introduced on [关智友's personal website](https://zhiyouguan.com/#work).
+
 > *“Good repositories should not only run. They should be reproducible, readable, and deployable.”*
 
 This profile is an evolving archive of selected research projects and national-level competition systems. My goal is to document not only the final code, but also the architecture, experiments, deployment process, engineering decisions, and practical limitations.
@@ -67,7 +66,7 @@ This profile is an evolving archive of selected research projects and national-l
 
 ## Selected Highlights
 
-**A few concrete signals:** National Scholarship · Top **0.45%** · Cambridge University AI Exchange, Grade A · Two first-author SCI journal manuscripts currently under review · **38 registered software copyrights**.
+**A few concrete signals:** National Scholarship · Top **0.45%** · Cambridge University AI Exchange, Grade A · **38 registered software copyrights**.
 
 I have also been invited to give technical talks on AI robotics at **DJI** and other technology companies, and my projects have been featured by **China.com Media Client**, **China Daily Tech**, and other media outlets.
 
@@ -145,4 +144,6 @@ Repositories are being organized and released progressively. Documentation, repr
 
 If you are working on robotics, embodied AI, world models, multimodal agents, or deployable autonomous systems, I am always happy to compare notes, discuss research ideas, or collaborate on open-source work.
 
-📮 **Email:** [202310169@stu.neuq.edu.cn](mailto:202310169@stu.neuq.edu.cn)
+📮 **Email:** [contact@zhiyouguan.com](mailto:contact@zhiyouguan.com)
+
+🌐 **Website:** [关智友 · Zhiyou Guan](https://zhiyouguan.com/)
